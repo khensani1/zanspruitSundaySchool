@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  /* This is how we define your custom "Sunday School" colors in v4 */
+  --color-ss-green: #182D09;
+  --color-ss-gold: #C79803;
+  --color-ss-taupe: #C1A987;
+  --color-ss-blue: #2E5AA7;
+}
+
+body {
+  /* Using your Taupe for a soft background */
+  background-color: #C3AF91;
+  color: #182D09;
+}
